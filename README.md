@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saba Ahmad</h1>
-<h3 align="center">A web developer and coder</h3>
-
+<h3 align="center">A dedicated mechanical engineer with hints of coding</h3>
+<img align="top" height="250" width="850" src="https://i.pinimg.com/originals/59/b8/c8/59b8c8622c076c5dc7bac0dd591c712c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saba404&label=Profile%20views&color=0e75b6&style=flat" alt="saba404" /> </p>
 
 - 🔭 I’m currently working on **Email Verification**
