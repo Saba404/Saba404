@@ -1,4 +1,4 @@
-<img align="top" alt="ERROR" height="250" width="850" src="https://i.pinimg.com/originals/59/b8/c8/59b8c8622c076c5dc7bac0dd591c712c.gif](https://i.pinimg.com/originals/67/30/e5/6730e5b2994140c19085e9d66fe75937.gif">
+<img align="top" alt="ERROR" height="250" width="850" src="https://i.pinimg.com/originals/67/30/e5/6730e5b2994140c19085e9d66fe75937.gif">
 <h1 align="center">Hi 👋, I'm Saba Ahmad</h1>
 <h3 align="center">A dedicated mechanical engineer with hints of coding skills.</h3>
 
